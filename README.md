@@ -66,12 +66,3 @@
 ![Anas's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=itsanas121&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
-
-## 🌟 Leadership & Volunteering
-
-* 🏫 **Founder & Former Executive Director | Manar Student Initiative**
-  * Led a massive team of **250+ contributors** producing educational materials that reached and supported over **50,000+ computer science students**.
-* 🎯 **Head of Organizing Committee | UQU Computing Club**
-  * Managed and directed a **350+ member team** in executing wide-scale technical and academic events at the university level.
-* 🌐 **Project Lead | UQU Computing College Majors Campaign**
-  * Conceptualized, managed, and developed the web platform [uqucc-majors.sb.sa](https://uqucc-majors.sb.sa) to clear up confusion and guide freshman students entering the computer college.
