@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-* 📊 **Data Analyst & Data Engineer** with a solid background in **Backend Development** and a proven track record in **Technical Project Management**.
+* 📊 **Data Analyst & Data Engineer** with a solid background in **Backend Development**
 * 🎓 Computer Science Student at **Umm Al-Qura University** (Expected 2027).
 * 💼 Currently gaining experience as a **Data Analyst Intern** at **Saudi National Bank**.
 * 🏅 **CDMP Certified** (Certified Data Management Professional by DAMA International).
