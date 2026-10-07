@@ -60,9 +60,9 @@
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 ![Anas's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=itsanas121&show_icons=true&theme=tokyonight&count_private=true)
 
----
+--- -->
